@@ -25,21 +25,24 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 ## Instalación
 
 1. **Clonar el repositorio**:
-
+   ```bash
    git clone https://github.com/urian121/convertir-imagen-en-PDF-con-Python
    cd convertir-imagen-en-PDF-con-Python
+   ```
 
 2. Instalar las dependencias:
-
+   ```bash
     pip install -r requirements.txt
+   ```
 
 3. Crear la carpeta de subidas:
-
+   ```bash
     mkdir uploads
-
+   ```
 4. Ejecutar la aplicación:
-
+   ```bash
     python app.py
+   ```
 
 Abre tu navegador y accede a http://127.0.0.1:5000/
 
