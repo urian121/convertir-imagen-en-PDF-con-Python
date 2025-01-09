@@ -5,15 +5,8 @@
 
 ## Resultado final
 
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/eliminar-fondo-de-imagenes-con-python.png)
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/convertir-imagen-a-pdf-con-python.png)
 
-
-## Características
-
-- Convierte imágenes en formato PNG, JPG, JPEG, entre otros, a PDF.
-- Genera nombres únicos para los archivos PDF para evitar conflictos.
-- Interfaz simple y amigable creada con **Bootstrap 5**.
-- Elimina archivos temporales automáticamente para mantener el servidor limpio.
 
 ## Tecnologías Utilizadas
 
@@ -32,8 +25,8 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 ## Instalación
 
 1. **Clonar el repositorio**:
-   git clone https://github.com/tuusuario/convertidor-imagen-pdf.git
-   cd convertidor-imagen-pdf
+   git clone https://github.com/urian121/convertir-imagen-en-PDF-con-Python
+   cd convertir-imagen-en-PDF-con-Python
 
 2. Instalar las dependencias:
 
@@ -56,5 +49,6 @@ Abre tu navegador y accede a http://127.0.0.1:5000/
     Invita una cerveza 🍺 o un café ☕
     Paypal iamdeveloper86@gmail.com
     Da las gracias públicamente 🤓.
+    Y no olvides dejar tu estrella ⭐ en el repositorio, ¡dicen que trae buena suerte! 🍀  
 
 ## No olvides SUSCRIBIRTE 👍
